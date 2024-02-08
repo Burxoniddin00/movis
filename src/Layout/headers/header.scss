@@ -1,0 +1,29 @@
+.header_conatiner {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+
+.header__item {
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 18px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.header__item {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  color: #ffffff;
+}
+
+.header__sarche {
+  background: inherit;
+  padding: 5px 15px;
+  border-bottom: 2px solid red;
+  border-left: 1px solid red;
+  border-bottom-left-radius: 20px;
+}
